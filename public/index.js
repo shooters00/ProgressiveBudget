@@ -19,6 +19,7 @@ function populateTotal() {
   let total = transactions.reduce((total, t) => {
     return total + parseInt(t.value);
   }, 0);
+  //.toFixed(2);  <-Need this?  It was in mini project
 
   let totalEl = document.querySelector("#total");
   totalEl.textContent = total;
