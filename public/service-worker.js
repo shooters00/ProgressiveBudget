@@ -9,13 +9,15 @@ const FILES_TO_CACHE = [
   "/styles.css",
   "icons/icon-192x192.png",
   "icons/icon-512x512.png",
+  "/chart.js@2.8.0",
+  "font-awesome.min.css"
 ];
 
 // install
 self.addEventListener("install", function (evt) {
   // pre cache image data
   evt.waitUntil(
-    caches.open(DATA_CACHE_NAME).then((cache) => cache.add("/api/transaction/bulk"))
+    caches.open(DATA_CACHE_NAME).then((cache) => cache.add("/api/transaction"))
   );
     
   // pre cache all static assets
