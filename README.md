@@ -14,7 +14,7 @@ Track my withdrawals and deposits with or without a data/internet connection SO 
 6. [Questions](#questions)
 
 ## Installation
-Launch Heroku app
+Launch Heroku app - https://pure-journey-26661.herokuapp.com/ 
 
 ## Usage
 Enter a transaction and amount and choose to add or subtract funds.  Go into offline mode, do the same, and come back online to ensure that transactions still occur.
