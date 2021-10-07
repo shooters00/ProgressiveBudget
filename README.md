@@ -5,7 +5,7 @@
 ## Description
 Track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling.
 
-![Progressive Budget](https://user-images.githubusercontent.com/80861572/136468571-53c3fb9d-4c92-4510-b7e5-d6e388966975.png)
+<img width="404" alt="Progressive Budget" src="https://user-images.githubusercontent.com/80861572/136468744-c311dfc9-4f67-4783-aa31-7f39f54fbcca.png">
 
 #### Table of Contents
 1. [Installation](#installation)
